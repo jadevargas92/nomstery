@@ -17,3 +17,14 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 	padding: 0;
 }
+
+body {
+	background: url('/assets/dimension_@2X.png');
+	font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif;  
+}
+
+.navbar.navbar-inverse {
+	background: url('/assets/dark_fish_skin.png');
+	border-radius: 0;
+	box-shadow: 10px 10px 5px grey;
+}
