@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 gem 'bootstrap-sass', '~> 3.3.5.1'
 
+gem 'devise', '>= 3.2.4'
+
 gem 'will_paginate'
 
 gem 'will_paginate-bootstrap', '~> 1.0', '>= 1.0.1'
