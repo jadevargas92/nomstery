@@ -27,4 +27,16 @@ body {
 	background: url('/assets/dark_fish_skin.png');
 	border-radius: 0;
 	box-shadow: 10px 10px 5px grey;
+	color: #139EAD;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #139EAD;
+	font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif;
+	font-weight: 600;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: #139EAD;
+	font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif;
 }
